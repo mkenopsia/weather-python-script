@@ -9,7 +9,7 @@ parser.add_argument('cityName', type=str, help='Первый параметр')
 args = parser.parse_args()
 
 currCity = args.cityName.lower()
-appId = "839477f9e96302537b9c73cfaf97c58e"
+appId = ":)" #your key
 city_id = 0
 
 
